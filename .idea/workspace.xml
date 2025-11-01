@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87bfa4ae-8ac2-4552-b7dc-8381b63ff841" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DM2025-Lab2-Master-Phase_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DM2025-Lab2-Master-Phase_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_df.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_df.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train_df.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/train_df.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/training_log.csv" beforeDir="false" afterPath="$PROJECT_DIR$/logs/training_log.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_df.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/test_df.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train_df.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/train_df.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761986600346</updated>
-      <workItem from="1761986611302" duration="3584000" />
+      <workItem from="1761986611302" duration="4567000" />
     </task>
     <servers />
   </component>
