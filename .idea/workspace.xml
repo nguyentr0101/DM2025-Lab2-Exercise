@@ -7,10 +7,6 @@
     <list default="true" id="ead3e6f9-aadc-410d-ba1b-4e4fb0cc87ed" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DM2025-Lab2-Master-Phase_2_Main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DM2025-Lab2-Master-Phase_2_Main.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_df.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_df.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train_df.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/train_df.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/info_extractions/review_extraction_example.jsonl" beforeDir="false" afterPath="$PROJECT_DIR$/results/info_extractions/review_extraction_example.jsonl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/info_extractions/review_extraction_example_vis.html" beforeDir="false" afterPath="$PROJECT_DIR$/results/info_extractions/review_extraction_example_vis.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764222366933</updated>
       <workItem from="1764222378205" duration="3228000" />
-      <workItem from="1764239266037" duration="4532000" />
+      <workItem from="1764239266037" duration="6893000" />
     </task>
     <servers />
   </component>
