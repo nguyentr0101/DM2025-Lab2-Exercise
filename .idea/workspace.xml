@@ -7,32 +7,7 @@
     <list default="true" id="c7d1464b-7faa-4cb6-8d5c-0fbade760027" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DM2025-Lab2-Master-Phase_2_Bonus.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DM2025-Lab2-Master-Phase_2_Bonus.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_0_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_0_mask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_0_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_0_overlay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_10_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_10_mask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_10_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_10_overlay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_1_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_1_mask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_1_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_1_overlay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_2_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_2_mask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_2_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_2_overlay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_3_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_3_mask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_3_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_3_overlay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_4_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_4_mask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_4_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_4_overlay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_5_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_5_mask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_5_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_5_overlay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_6_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_6_mask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_6_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_6_overlay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_7_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_7_mask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_7_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_7_overlay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_8_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_8_mask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_8_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_8_overlay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_9_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_9_mask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_9_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_9_overlay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/a black dog_1_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/a black dog_1_mask.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/a black dog_1_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/a black dog_1_overlay.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/segmentation_outputs/final_result_Animals.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/final_result_Animals.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentation_outputs/final_result_People.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/final_result_People.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +72,7 @@
       <workItem from="1764320146384" duration="1012000" />
       <workItem from="1764321185941" duration="351000" />
       <workItem from="1764321596649" duration="876000" />
-      <workItem from="1764322491366" duration="9118000" />
+      <workItem from="1764322491366" duration="11130000" />
     </task>
     <servers />
   </component>
