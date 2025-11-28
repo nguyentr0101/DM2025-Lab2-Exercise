@@ -8,9 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DM2025-Lab2-Master-Phase_2_Main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DM2025-Lab2-Master-Phase_2_Main.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/test_df.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_df.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_df_sample_embeddings.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_df_sample_embeddings.pkl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/train_df.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/train_df.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train_df_sample_embeddings.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/train_df_sample_embeddings.pkl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/results/info_extractions/my_movie_reviews_extraction.jsonl" beforeDir="false" afterPath="$PROJECT_DIR$/results/info_extractions/my_movie_reviews_extraction.jsonl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/results/info_extractions/review_extraction_example.jsonl" beforeDir="false" afterPath="$PROJECT_DIR$/results/info_extractions/review_extraction_example.jsonl" afterDir="false" />
     </list>
@@ -66,25 +64,18 @@
       <workItem from="1764303207822" duration="2567000" />
       <workItem from="1764305792080" duration="49000" />
       <workItem from="1764305856220" duration="707000" />
-      <workItem from="1764306576109" duration="1215000" />
+      <workItem from="1764306576109" duration="2768000" />
+      <workItem from="1764309371398" duration="82000" />
+      <workItem from="1764309474854" duration="117000" />
+      <workItem from="1764309664259" duration="2684000" />
+      <workItem from="1764312479107" duration="2166000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/DM2025-Lab2-Master-Phase_2_Main.ipynb</url>
-          <line>1019</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DM2025_Lab2_Exercise$api_key.coverage" NAME="api_key Coverage Results" MODIFIED="1764301766585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/DM2025_Lab2_Exercise$api_key.coverage" NAME="api_key Coverage Results" MODIFIED="1764312492012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
   </component>
 </project>
