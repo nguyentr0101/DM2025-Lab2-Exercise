@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c7d1464b-7faa-4cb6-8d5c-0fbade760027" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DM2025-Lab2-Master-Phase_2_Main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DM2025-Lab2-Master-Phase_2_Main.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_df.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_df.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_df_sample_embeddings.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_df_sample_embeddings.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train_df.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/train_df.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train_df_sample_embeddings.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/train_df_sample_embeddings.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/info_extractions/my_movie_reviews_extraction.jsonl" beforeDir="false" afterPath="$PROJECT_DIR$/results/info_extractions/my_movie_reviews_extraction.jsonl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/info_extractions/review_extraction_example.jsonl" beforeDir="false" afterPath="$PROJECT_DIR$/results/info_extractions/review_extraction_example.jsonl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +56,7 @@
       <updated>1764298909368</updated>
       <workItem from="1764298910512" duration="2831000" />
       <workItem from="1764301760150" duration="1431000" />
-      <workItem from="1764303207822" duration="356000" />
+      <workItem from="1764303207822" duration="1620000" />
     </task>
     <servers />
   </component>
