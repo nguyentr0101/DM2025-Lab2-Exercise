@@ -4,8 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7d1464b-7faa-4cb6-8d5c-0fbade760027" name="Changes" comment="">
+    <list default="true" id="3dc83f77-d338-4889-b4ea-0811ce663381" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DM2025-Lab2-Master-Phase_2_Bonus.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DM2025-Lab2-Master-Phase_2_Bonus.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_0_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_0_mask.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_0_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_0_overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_1_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_1_mask.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_1_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_1_overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_2_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_2_mask.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_2_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_2_overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_3_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_3_mask.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_3_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_3_overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_4_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_4_mask.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_4_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_4_overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_5_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_5_mask.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_5_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_5_overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_6_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_6_mask.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_6_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_6_overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_7_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_7_mask.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_7_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_7_overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_8_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_8_mask.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/People_8_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/People_8_overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/a black dog_1_mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/a black dog_1_mask.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/a black dog_1_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/a black dog_1_overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/final_result_Animals.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/final_result_Animals.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs/final_result_People.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs/final_result_People.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentation_outputs_model1/final_result_characters.png" beforeDir="false" afterPath="$PROJECT_DIR$/segmentation_outputs_model1/final_result_characters.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +41,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="365aVWSsg4jhbNnF2EKMfUKc7Jm" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="368XYqsXM2j44BeAngQI2lmxDwd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,49 +54,56 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.api_key.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="DM2025-Lab2-Exercise" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
         <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
       </set>
     </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c7d1464b-7faa-4cb6-8d5c-0fbade760027" name="Changes" comment="" />
-      <created>1764298909368</created>
+      <changelist id="3dc83f77-d338-4889-b4ea-0811ce663381" name="Changes" comment="" />
+      <created>1764389224569</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1764298909368</updated>
-      <workItem from="1764298910512" duration="2831000" />
-      <workItem from="1764301760150" duration="1431000" />
-      <workItem from="1764303207822" duration="2567000" />
-      <workItem from="1764305792080" duration="49000" />
-      <workItem from="1764305856220" duration="707000" />
-      <workItem from="1764306576109" duration="2768000" />
-      <workItem from="1764309371398" duration="82000" />
-      <workItem from="1764309474854" duration="117000" />
-      <workItem from="1764309664259" duration="2684000" />
-      <workItem from="1764312479107" duration="3101000" />
-      <workItem from="1764317018069" duration="1621000" />
-      <workItem from="1764318654371" duration="1476000" />
-      <workItem from="1764320146384" duration="1012000" />
-      <workItem from="1764321185941" duration="351000" />
-      <workItem from="1764321596649" duration="876000" />
-      <workItem from="1764322491366" duration="14499000" />
+      <updated>1764389224569</updated>
+      <workItem from="1764389235653" duration="1332000" />
     </task>
     <servers />
   </component>
@@ -78,6 +111,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DM2025_Lab2_Exercise$api_key.coverage" NAME="api_key Coverage Results" MODIFIED="1764322379931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/DM2025_Lab2_Exercise$api_key.coverage" NAME="api_key Coverage Results" MODIFIED="1764389381657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
   </component>
 </project>
