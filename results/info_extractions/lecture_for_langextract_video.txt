@@ -1,0 +1,8 @@
+# LECTURE ANALYSIS: Knowledge Discovery Processes
+## Video Segment: 01:00 - 04:00
+
+[SLIDE DESCRIPTION]
+The slide illustrates the Knowledge Discovery Processes. It shows a flow starting from 'Databases', moving through 'Data Cleaning', 'Data Integration', 'Selection', and 'Preprocessing' to 'Task-relevant Data'. This data then goes through 'Data Mining' and finally 'Pattern Evaluation'. The diagram visually represents the steps involved in extracting meaningful information from data.
+
+[TRANSCRIPT - 01:00]
+And in certain country, they also have a very important concept. Like, uh, then afterward, we select how of the data. So we call them selection. And then sending to something we saw here is the pan. And we go through data mining process. So you can find out in order for us to go through this, uh, knowledge discovery process, then we need to go, uh, from some part. It looks like they are not related to data mining process. And then afterward, we try to evaluate as our pattern good enough. That is this process.
