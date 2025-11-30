@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6f653c5-1f2a-412c-9955-00a15d11f0cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DM2025-Lab2-Homework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DM2025-Lab2-Homework.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/emotion_preprocessing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/emotion_preprocessing_v2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/emotion_distribution.png" beforeDir="false" afterPath="$PROJECT_DIR$/emotion_distribution.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764469199027</updated>
       <workItem from="1764469210626" duration="5391000" />
-      <workItem from="1764474623403" duration="697000" />
+      <workItem from="1764474623403" duration="1358000" />
     </task>
     <servers />
   </component>
